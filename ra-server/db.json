@@ -56,7 +56,7 @@
   "posters": [
     {
       "id": 1,
-      "category_id": 2,
+      "category_id": 12,
       "title": "Dog in the Grass",
       "width": 16,
       "height": 20,
@@ -690,6 +690,13 @@
       "description": "An apricot tree in full bloom.",
       "stock": 31,
       "sales": 7
+    },
+    {
+      "width": null,
+      "height": 213,
+      "price": null,
+      "sales": null,
+      "id": 51
     }
   ]
 }
